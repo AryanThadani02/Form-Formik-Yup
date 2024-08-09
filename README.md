@@ -8,7 +8,7 @@ This project demonstrates how to create a form in React using Formik and Yup. Fo
 
 This example form includes the following features:
 - **Email Field**: Requires a valid email format.
-- **Password Field**: Requires the password to be `"rishiMe@199"`.
+- **Password Field**: Requires the password to be `"rishiME@199"`.
 - **Submit Button**: Initially disabled, it becomes enabled only when both fields are filled out correctly.
 - **Error Messages**: Displayed within input fields to guide users.
 
@@ -55,7 +55,7 @@ This example form includes the following features:
 ## Usage
 
 1. **Email Field**: Enter a valid email address. The form will show an error message if the format is incorrect.
-2. **Password Field**: Enter the password `"rishiMe@199"`. The form will show an error message if the password does not match.
+2. **Password Field**: Enter the password `"rishiME@199"`. The form will show an error message if the password does not match.
 3. **Submit Button**: The button is initially disabled. It will be enabled only when both fields are filled out correctly.
 
 ## Contact
